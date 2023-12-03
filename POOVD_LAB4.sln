@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOVD_LAB4", "POOVD_LAB4\POOVD_LAB4.csproj", "{8E4C558C-A0FE-45EF-8831-5518603091E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOVD", "..\POOVD\POOVD\POOVD.csproj", "{23D118E0-DEA9-4C78-B0EB-94A73451F498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4C558C-A0FE-45EF-8831-5518603091E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4C558C-A0FE-45EF-8831-5518603091E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4C558C-A0FE-45EF-8831-5518603091E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4C558C-A0FE-45EF-8831-5518603091E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D118E0-DEA9-4C78-B0EB-94A73451F498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D118E0-DEA9-4C78-B0EB-94A73451F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D118E0-DEA9-4C78-B0EB-94A73451F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D118E0-DEA9-4C78-B0EB-94A73451F498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C509FF2A-BB9E-423C-BB67-298410C52E46}
+	EndGlobalSection
+EndGlobal

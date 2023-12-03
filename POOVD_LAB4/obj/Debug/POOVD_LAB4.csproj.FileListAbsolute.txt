@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\bin\Debug\POOVD_LAB4.exe.config
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\bin\Debug\POOVD_LAB4.exe
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\bin\Debug\POOVD_LAB4.pdb
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.Form1.resources
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.Properties.Resources.resources
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.csproj.GenerateResource.cache
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.exe
+C:\Users\student\source\repos\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.pdb
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.Form1.resources
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.Properties.Resources.resources
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.exe
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\obj\Debug\POOVD_LAB4.pdb
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\bin\Debug\POOVD_LAB4.exe.config
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\bin\Debug\POOVD_LAB4.exe
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб4\POOVD_LAB4\POOVD_LAB4\bin\Debug\POOVD_LAB4.pdb
